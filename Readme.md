@@ -1,3 +1,7 @@
-About: This is a flashlight app.  When the flash light is on, the screen on the telephone will appear white.  When the flash light is off, the screen will appear black.  To switch the flashlight on or off, one clicks anywhere on the screen. 
+About: This is a flashlight app. It uses the mobile device's screen as a light source. 
+
+
+
+Description: User can open the app and tap anywhere on the screen to either turn on or off the flashlight.  
 
 Technologies Used: Xcode, Swift, UIKIT
